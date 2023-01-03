@@ -14,11 +14,17 @@ Be sure to check the following before splitting:
 After the split is successful, please be sure to check manually!
 
 Example of directory input format: D:\Debt Commitment Draft\xxx\Phase 3
+
 Example of file input format: D:\Debt commitment draft\xxx\third issue\scanned copy.pdf
+
 In the resource manager, the target file or directory can be dragged into the block diagram for input
+
 If you need to copy and paste, you can set it in the cmd attribute in the upper left corner
+
 Be careful not to enter with '' if you need to delete it manually!
+
 For example: 'D:\Debt commitment paper\xxx\third phase\scanned copy.pdf'
+
 It needs to be changed to: D:\Debt Undertaking Draft\xxx\Third Issue\Scanned Copy.pdf
 
 pdf_split_input_pdf.exe 用于拆分原文件为word
