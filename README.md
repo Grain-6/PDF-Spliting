@@ -22,7 +22,9 @@ For example: 'D:\Debt commitment paper\xxx\third phase\scanned copy.pdf'
 It needs to be changed to: D:\Debt Undertaking Draft\xxx\Third Issue\Scanned Copy.pdf
 
 pdf_split_input_pdf.exe 用于拆分原文件为word
+
 pdf_split_input_word.exe 用于拆分原文件为pdf
+
 优先使用原文件为pdf的情况进行拆分
 
 拆分前请务必进行如下检查：
